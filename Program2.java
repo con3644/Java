@@ -5,14 +5,15 @@
  *con3644@calu.edu
  *arn4181@calu.edu
  */
+
+
+/*
+ * ------- This java console app will open files, read strings from files, process strings, and write data to files. --------
+ */
   
 import java.io.*;
 import java.util.StringTokenizer;
 
-/*
- * This class is a standalone program to copy a file, and also defines a 
- * static copy() method that other programs can use to copy files.
- */
 public class Program2 
 {
     //The custom word object used when parsing the input file
