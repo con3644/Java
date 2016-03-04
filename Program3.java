@@ -1,7 +1,10 @@
 /*Brandon Arnold
  *Max Conroy
+ *Group 1
  *2/22/2016
- *Program 3 CET 350
+ *CET 350
+ *arn4181@calu.edu
+ *con3644@calu.edu
  */
  
 
