@@ -7,6 +7,8 @@
  *con3644@calu.edu
  */
  
+//------This java console app uses a GUI to open files, read strings from files, process strings, and write data to files.-------
+
 
 import java.io.*;
 import java.awt.*;
