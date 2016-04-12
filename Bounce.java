@@ -7,7 +7,7 @@ arn4181@calu.edu
 con3644@calu.edu
 */
 
-//This java application creates an object that bounces off of the edges of the window. The user has options to adjust the object.
+//This java applet creates an object that bounces off of the edges of the window. The user has options to adjust the object.
 
 import java.applet.*;                                                                   
 import java.awt.*;                                                                     
